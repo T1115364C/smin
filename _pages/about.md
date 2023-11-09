@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 
-# Meet Mr. Smith - An Awesome Computer Science Teacher!
+# Meet Jesus - your new tweening teacher
 
-## Passionate and Knowledgeable
 
-Mr. Smith is an extraordinary computer science teacher who is passionate about his subject and has a deep knowledge of the field. His enthusiasm for computer science is contagious, and he brings that energy into the classroom every day. He stays up-to-date with the latest advancements in technology and is always eager to share his knowledge with his students.
+
 
 ## Engaging Teaching Style
 
