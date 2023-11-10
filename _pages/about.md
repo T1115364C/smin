@@ -1,3 +1,5 @@
+
+
 ---
 permalink: /
 excerpt: "About me"
@@ -7,27 +9,30 @@ redirect_from:
   - /about.html
 ---
 
-# Meet Your Sixth Grade Computer Teacher
 
-Hello, young tech enthusiasts! 👋
+# Meet Smin, Your new friend!
 
-![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
+## creative and "colourful"<!DOCTYPE html>
+<html>
+<head>
 
-I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
-## About Mr. Daviddhc20120601
+   
+</head>
+<body>
+  <h1>Smin - Creative Animator</h1>
+  <p class="intro-text">Meet Smin, a talented and innovative animator who brings imagination to life through captivating animations.</p>
+    <p class="quote">"Smin's animations are a <span class="highlight">work of art</span>. With meticulous attention to detail and a unique storytelling approach, Smin has the ability to create <span class="highlight">magical worlds</span> that leave viewers spellbound."</p>
+  <p class="intro-text">Smin's animations showcase a wide range of styles and techniques, from traditional hand-drawn animation to cutting-edge 3D motion graphics. With a keen eye for aesthetics and a passion for storytelling, Smin is able to create animations that not only entertain but also <span class="highlight">evoke emotions</span> and make a lasting impact.</p>
+  <p class="intro-text">Whether it's a short film, a music video, or a commercial project, Smin's animations <span class="highlight">push the boundaries</span> of imagination and creativity. Smin's ability to bring characters to life and transport audiences to different worlds makes them a <span class="highlight">true visionary</span> in the field of animation.</p>
+  <p class="intro-text">If you're looking for a <span class="highlight">creative animator</span> who can turn your ideas into animated masterpieces, look no further than Smin. Collaborate with Smin and witness your vision come to life in ways you never imagined.</p>
+</body>
+</html>
+##Smin is one who is extremely interested in animating. Wanna make your frozen pictures move? Come on and join me!
 
-👩‍🏫 **Name:** Mr. Daviddhc20120601
+## Engaging Teaching Style
 
-🏫 **Grade:** Sixth Grade
+With her engaging teaching style, Smin makes complex computer science concepts easily understandable for his students. She uses a variety of teaching methods, including interactive presentations, hands-on projects, and group discussions. Her classes are never boring, as she incorporates real-life examples and practical applications of computer science into her lessons.
 
-🖥️ **Subject:** Computer Science
-
-With a passion for all things tech and years of experience in making coding, programming, and digital creativity accessible to young minds, Mr. Daviddhc20120601 is here to make learning about computers a blast!
-
-## What to Expect
-
-In Mr. Daviddhc20120601's class, you'll embark on an epic journey into the realms of programming, web development, and all the fun aspects of technology. You'll get hands-on experience with computers, learn to code, and even create your own digital masterpieces. Mr. Daviddhc20120601's class is the gateway to a world of endless possibilities.
-
-So, get ready to explore, learn, and code your way to success under the expert guidance of Mr. Daviddhc20120601. Your computer adventure is about to begin!
-
+[![Video](https://img.youtube.com/vi/cTp_O_1aBgg/0.jpg)](https://www.youtube.com/shorts/cTp_O_1aBgg)         
+credits to @KhaiiSaja._ 
